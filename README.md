@@ -1,4 +1,4 @@
-# Analysis Steps (bivariate analysis with correlation and regression )
+# Analysis Steps (Regression Problem)
 
 The data were examined using descriptive statistics software SPSS version 22 to determine the effect of the independent variable (International Human Resource Practices) on the dependent variable (Expatriates Job Performance)
 
